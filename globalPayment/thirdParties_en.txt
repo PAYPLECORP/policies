@@ -1,0 +1,75 @@
+Personal data with third parties
+
+
+Payple Co., Ltd. (hereinafter referred to as "Company") values users' personal information and complies with the Act on
+Promotion of Information and Communication Network Utilization and Information Protection, the Personal Information
+Protection Act, and the Act on Consumer Protection in Electronic Commerce. The company uses the user's personal
+information within the scope notified by [Personal Information Collection Purpose], and does not use it beyond the same
+scope or, in principle, provide or entrust the user's personal information to the outside world. However, exceptions are
+made in the following cases.
+- If the user agrees in advance (if the user agrees in advance, it means that the user agrees to voluntarily provide his
+or her personal information to a third party for the use of the service, etc.).
+
+- In cases where there is a request from the investigative agency in accordance with the provisions of laws and
+regulations or in accordance with the procedures and methods prescribed by laws and regulations for investigative
+purposes, the Company shall,
+(1) the recipient of personal information;
+(2) the purpose of his use,
+(3) Items of personal information provided,
+(4) The retention and use period of personal information is notified in advance and consent is obtained explicitly and
+individually.
+
+In all of these processes, the Company does not collect additional information against the will of the user or share
+information outside the scope of consent with any third party.
+
+1. Provision of personal information to a third party
+The company provides personal information collected from users to third parties as follows.
+1) Purpose of use: Credit card payment
+- the recipient of the offer
+A. Credit card companies: KB Kookmin, BC, Lotte, Samsung, NH Nonghyup, Hyundai, Shinhan, Hana, Woori, Visa, Mastercard
+and other credit card company
+B. Bank: Shinhan/SC Cheil/City/Hana/Nonghyup/Company/National/Saving/Suhyup/Shinhyup/Post Office/Saemaeul
+Bank/Daegu/Busan/Gyeongnam/Gwangju/Jeonbuk/Johung/Jeju
+C. PG, VAN: Danal Co., Ltd., Cybersource
+- Personal information item: payment information
+- Retention and Use Period: In principle, personal information shall be destroyed without delay when the purpose of
+collecting and using personal information is achieved (provided that there are special provisions in other statutes,
+keep it in accordance with relevant statutes)
+
+2) Purpose of use: Account transfer payment
+- the recipient of the offer
+A. Bank: Gyeongnam/Gwangju/National/Corporate/Nonghyup/Daegu/Busan/Industrial/Saemaeul
+Bank/Suhyup/Shinhan/Shinhyup/Foreign Exchange/Woori/Post Office/Jeonbuk/Jeju/Hana/City/SC First Bank
+B. PG, VAN Corporation: KSnet, Nice Payments Co., Ltd
+- Personal information item: payment information
+- Retention and Use Period: In principle, personal information shall be destroyed without delay when the purpose of
+collecting and using personal information is achieved (provided that there are special provisions in other statutes,
+keep it in accordance with relevant statutes)
+
+3) Purpose of use: Issuance of cash receipt
+- To whom it may be provided: IRS
+- Personal information item: payment information
+- Retention and Use Period: In principle, personal information shall be destroyed without delay when the purpose of
+collecting and using personal information is achieved (provided that there are special provisions in other statutes,
+keep it in accordance with relevant statutes)
+
+4) Purpose of use: Identification of the mobile phone and consent to withdraw ARS
+- Recipients: Mobile carriers (SKT, KT, LG U+), Danal, Inbiznet, etc
+- Personal information item: authentication information
+- Retention and Use Period: In principle, personal information shall be destroyed without delay when the purpose of
+collecting and using personal information is achieved (provided that there are special provisions in other statutes,
+keep it in accordance with relevant statutes)
+
+5) Purpose of use: confirmation of transaction approval, cancellation and refund, settlement of transaction price,
+response and confirmation of transaction details requests
+- Recipient : User's counterparty
+- Personal information items: name, e-mail, mobile phone number, transaction approval status, cause of failure of
+transaction approval, approval number and order number, payment information
+- Period of possession/use: 5 years (basic: the Consumer Protection Act in e-commerce, etc. (provided, if the
+transaction amount per case is less than 10,000 won, it is preserved for 1 year)
+
+2. Refusal of the user to provide personal information to a third party
+The user may refuse to consent to the provision of the company's personal information to a third party. However, if you
+refuse to agree, we inform you that the service payment cannot be completed normally.
+
+※ Matters related to the processing of personal information shall be in accordance with the company's privacy policy.

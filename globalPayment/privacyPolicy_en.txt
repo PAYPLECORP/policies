@@ -1,0 +1,215 @@
+Privacy Policy
+
+
+"Payple Co., Ltd." (hereinafter referred to as "Company") values your personal information and complies with the "Act on
+Promotion of Information and Communication Network Use and Information Protection" and the "Personal Information
+Protection Act." Through the personal information processing policy, the company informs you of the use and method of
+personal information provided by users and what measures are being taken to protect personal information.
+If the company revises its personal information handling policy, it will announce it through a website notice (or
+individual notice).
+The company collects the following personal information for the provision of services, such as applications,
+consultations, and inquiries for electronic payment agency (hereinafter referred to as "service").
+
+1. Purpose of collecting and using personal information
+The company utilizes the collected personal information for the following purposes:
+- Identification and real-name verification for establishment, maintenance, and termination of service provision
+contracts, various member management, contract delivery, etc.
+- Identification, authentication, real-name verification, and various guidance/notification during the service delivery
+process
+- Prevention of illegal use and unauthorized use
+
+- Confirmation of intention, such as consent or withdrawal necessary for the provision of services and related business
+operations
+- Identifying frequency of use, providing services according to demographic characteristics, and registering store
+business information for each payment method for providing CRM services
+- Send company-provided consumer protection laws mail
+- Deliver advertising information (in payment notification mail) such as other events provided by the company, provide
+customized services, provide services and advertisements based on statistical characteristics, and conduct actual
+marketing activities
+- Transmission of user's payment information, personal information storage details, etc. to the issuer of the user's
+payment method (ex. credit card company) who signed a contract with the user for service provision (transaction
+approval, etc.) and related business processing (civil petition, personal information management status check, etc.)
+
+(See below for details of the payment method issuer)
+
+A. Credit: Kookmin/BC/Lotte/Samsung/NH Nonghyup/Hyundai/Shinhan/Hana/Woori/Visa/Mastercard and other credit card
+companies
+B. Account transfer: Bank (Gyeongnam/Gwangju/National/Corporate/Daegu/Busan/Industrial/Saemaeul
+Bank/Suhyup/Shinhan/Shinhan/Foreign Exchange/Woori/Jeonbuk/Jeju/Hana/City/SC First Bank, etc.), Securities
+(Dongyang/Mirae Asset/Samsung/Hanwha, etc.)
+C. Cash receipt issue: Korean IRS
+D. Authentication, ARS withdrawal agreement: Danal/Inviset Co., Ltd
+
+2. Items and methods of collecting personal information
+1) Personal information collection item
+A. Mandatory items
+- User's name (representative and contact name in the case of a franchise), date of birth, mobile phone number
+(representative and contact number in the case of a franchise), phone number, e-mail address (representative and contact
+e-mail address), trade name, business name, business URL, business number, fax number, account information, and service
+information
+- Payment information ("user" means various information for each payment method presented through "service" provided by
+"company" to purchase goods and services of a store, such as credit card number, credit card expiration date, name,
+account number, mobile phone number, landline phone number, etc.)
+- Additional information (access IP/MAC address, cookie, e-mail, service access date, service usage record, defective or
+abnormal usage record, payment record) may be automatically or manually generated during service use or service
+processing other than the above-mentioned personal information collection items.
+
+B. Selections
+- In addition to the required items, the information contained in the contract or provided by the customer
+- Billing address, fax number, etc
+
+2) How to collect personal information
+Collect information presented by users directly from the website, written form, fax, e-mail, electronic financial
+service payment window provided by the company, and affiliates that have entered into business partnership contracts
+
+3. Provision of personal information
+The company uses the user's personal information within the scope notified by [Purpose of Collection and Use of Personal
+Information], and does not use it beyond the same scope without the user's prior consent or, in principle, provide the
+user's personal information to the outside. However, exceptions are made in the following cases.
+
+- If the user agrees in advance (if the user agrees in advance, it means that the user agrees to voluntarily provide his
+or her personal information to a third party for the use of the service, etc.), the company may
+(1) the recipient of personal information,
+(2) the purpose of its use,
+(3) Items of personal information provided,
+(4) The retention and use period of personal information is notified in advance and consent is obtained
+explicitly/individually.
+In all of these processes, the Company does not collect additional information against the will of the user or share
+information outside the scope of consent with third parties.
+- Where there is a request from an investigative agency in accordance with the provisions of statutes or in accordance
+with the procedures and methods prescribed by statutes for the purpose of investigation
+- Providing a particular individual to an affiliate in an unidentifiable form to provide personalized advertising
+services;
+- The cases where personal information is provided to a third party for the performance of the company's services are as
+follows.
+
+| the recipient of the offer
+- Credit card company: Kookmin/BC/Lotte/Samsung/NH Nonghyup/Hyundai/Shinhan/Hana/Woori/Visa/Mastercard and other card
+companies
+- Bank: Shinhan/SC Cheil/City/Hana/Nonghyup/Company/National/Save/Suhyup/Shinhyup/Post Office/Saemaeul Finance
+Company/Daegu/Busan/Gyeongnam/Gwangju/Jeonbuk/Johung/Jeju and other banks
+- VAN Company: Koban/Nice Information and Communication/Smartro/JTNet/KISNet/Nice Payments Co., Ltd
+- Payment Agency (PG) Company: Danal Co., Ltd/Cybersource
+- Korean National Tax Service
+- User's counterparty
+
+| Purpose of using personal information of a person who receives personal information
+- Confirmation of transaction approval, cancellation and refund, settlement of transaction price, and response and
+confirmation of transaction details requests
+
+| Items of personal information provided
+- Mobile phone or landline number, mobile phone or landline carrier information, payment information, transaction
+approval status, cause of failure of transaction approval, payment limit, e-mail, unique number (simple payment key
+linked to payment information), name, date of birth, gender classification, link information, duplicate confirmation
+information, authentication
+
+4. Period of retention and use of personal information
+In principle, the user's personal information is destroyed without delay when the purpose of collecting and using
+personal information is achieved.
+However, if it is necessary to preserve it under related laws, such as the Electronic Financial Transactions Act and the
+Electronic Commerce Act, etc., personal information shall be preserved for a certain period prescribed by the relevant
+laws. In this case, the company uses the stored information only for the purpose of storage, and the retention period is
+as follows.
+
+| Archive Information - Retention Grounds - Retention Period
+a. Records concerning withdrawal of contracts or subscriptions - Consumer Protection in e-commerce, etc. Act - 5 years
+b. Records on Payment and Supply of Goods, etc. - Consumer Protection in Electronic Commerce, etc. Act - 5 years
+c. Records of electronic financial transactions exceeding 10,000 won per case - Electronic Financial Transactions Act -
+5 years
+d. Records on the handling of consumer complaints or disputes - Consumer Protection in e-commerce, etc. Act - 3 years
+e. Records on the collection, processing, and use of credit information - Act on the Use and Protection of Credit
+Information - 3 years
+f. Records on Visits - Communications Secrets Act - 3 Years
+g. Record of electronic financial transactions of less than 10,000 won per case - Electronic Financial Transactions Act
+- 1 year
+h. Records on Identification - Act on Promotion of Information and Communication Utilization and Information Protection
+- 6 months
+
+5. Procedure and method of destruction of personal information
+In principle, the user's personal information is destroyed without delay when the purpose of collecting and using
+personal information is achieved.
+The company's personal information destruction procedures and methods are as follows.
+- Destruction procedure
+The information entered by the user for service application and service consultation is transferred to a separate DB
+after the purpose is achieved (in the case of paper, a separate document box) and stored for a certain period of time
+according to the internal policy and other relevant laws.
+- Destruction method
+The personal information printed on the paper is destroyed by grinding or incineration.
+Personal information stored in the form of electronic files is destroyed using a technical method that cannot play
+records.
+
+6. Entrustment of processing personal information
+For the performance of the service, the company will entrust users' personal information to an external specialized
+company or notify the users in advance if the details of the entrusted work or the trustee change. In addition, through
+business partnership contracts, we will clearly define service providers' strict observance of personal information
+protection, confidentiality of personal information, prohibition of provision to third parties, and obligation to return
+or destroy personal information at the end of the consignment period.
+The company does not entrust personal information imported from users to third parties. If such a need is long in the
+future, the consignee and the contents of the consignment will be notified in advance, and if necessary, prior consent
+will be obtained.
+
+7. Rights of users and legal representatives and methods of exercise thereof
+- Users can always request access to their personal information and correct errors, and we will take necessary measures
+without delay. In addition, the company does not use the information until the request for error correction is made.
+- Users can contact the company's customer center (+82-2-1522-5013) by phone, visit, write, or email to confirm that
+they are the users themselves, and apply for information reading/correction/deletion (the same applies if the user
+wishes to withdraw their consent to the use of personal information)
+- Children under the age of 14 (hereinafter referred to as "children") must obtain consent from their legal
+representatives if they wish to use our services. In order to obtain the consent of the legal representative, the
+company may request minimum information such as the name and contact information of the legal representative from the
+child. A child's legal representative may request access, correction, and deletion of the child's personal information
+through written, telephone, e-mail, fax, etc., and if such a request is made, the company will take necessary measures
+without delay.
+
+8. Matters concerning the installation and operation of devices that automatically collect personal information, such as
+Internet access information files, and refusal thereof;
+The company installs and operates a cookie that stores and finds user information from time to time. A cookie is a small
+text file that the server used to run the company's website sends to the user's browser and is stored on the user's
+computer hard disk. The company uses cookies, etc. for the following purposes:
+1) Purpose of use such as cookies
+It aims to provide targeted marketing and personalized services by analyzing the frequency of access and visit time of
+users, identifying user preferences and interests, identifying the degree of participation in various events, and the
+number of visits. Therefore, users can allow all cookies by setting options in their web browser, check each time a
+cookie is saved, or refuse to save all cookies.
+2) To reject cookie settings
+As a way to reject cookie settings, you can allow all cookies by selecting the option in your web browser, check each
+time you save them, or refuse to save all cookies.
+* How to set it up (for Internet Explorer): Tools at the top of the web browser > Internet Options > Personal
+Information
+However, if the user refuses to install the cookie, it may be difficult to provide the service.
+
+9. Measures to ensure the stability of personal information
+The company is taking the following measures to ensure the stability of personal information.
+1) Management measures: establishment and implementation of internal management plans, regular employee training, etc
+2) Technical measures: management of access rights to personal information processing systems, installation of access
+control systems, encryption of identification information, and installation of security programs
+3) Physical measures: Control access to computer rooms, data storage rooms, etc
+
+10. The name of the person in charge of personal information protection or the name and phone number of the department
+handling personal information protection work and related grievances;
+
+The company designates the department in charge, the person in charge of personal information protection, and the person
+in charge of personal information protection as follows to protect the user's personal information and handle complaints
+related to personal information.
+
+Person in charge of personal information protection
+- Name: Kim Hyun-chul, CEO
+
+Personnel of personal information protection
+- Name: Byungseok Shin , Team Leader
+
+Phone number: +82-2-1522-5013
+Email: help@payple.kr
+
+If you need to notify or consult about other personal information breaches, please contact the institution as follows.
+- Korea National Police Agency, Cyber Bureau (http://www.police.go.kr / 182)
+- Korea Supreme Prosecution Service, Cyber Bureau (http://www.spo.go.kr / 1302)
+- Personal Information Infringement Report Center (https://privacy.kisa.or.kr / 118)
+
+11. Other matters concerning changes in the personal information processing policy
+If there is an addition, deletion, or revision of the personal information processing policy, it will be notified
+through the "Notices" on the website at least 7 days before the revision.
+
+Supplementary Provisions
+Number one, June 1, 2021.
+These terms and conditions shall come into effect on June 1, 2021.

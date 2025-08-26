@@ -1,0 +1,211 @@
+Terms & Conditions
+
+Article 1 (Purpose)
+The purpose of Use Terms & Conditions is to define basic items on electronic financial transactions between the Company
+and the user in using the electronic payment agency service provided by Payple Co., Ltd. (hereinafter referred to as the
+'Company')
+
+Article 2 (Definition of Terms)
+The terms defined in this Agreement are as follows:
+1. The 'electronic financial transaction' means a transaction that the Company provides electronic payment agency
+services (hereinafter referred to as 'electronic financial transaction service') via electronic devices and the users
+use them in an automated manner without direct contact or communication to employees of the Company. The 'electronic
+payment agency service' means a service that transmits or receives payment information in the purchase or use of goods
+or services by electronic means or acts on behalf of or mediates the calculation the reward.
+
+2. "electronic payment agency service" means a service that transmits or receives payment information in the purchase of
+goods or the use of services by electronic means, or agents or mediates the settlement of the consideration.
+
+3. "affiliated store" means a person who provides goods or services to a user in a debit electronic payment method,
+prepaid electronic payment method, or electronic money transaction under a contract with a financial institution or an
+electronic financial institution.
+
+4. "user" means a person who agrees to these terms and conditions and uses electronic financial transaction services
+provided by the company.
+
+5. "access media" means or information used to instruct transactions or to ensure authenticity and accuracy of users and
+transactions, as prescribed in Article 2-10 of the Electronic Financial Transactions Act, certificates under the
+Electronic Signature Act, user's biometric information, and passwords.
+
+6. "transaction order" means that a user instructs the company to process electronic financial transactions in
+accordance with an electronic financial transaction contract concluded under these terms and conditions.
+
+7. "error" refers to a case where electronic financial transactions are not performed in accordance with an electronic
+financial transaction contract or the user's transaction order without the user's intention or negligence.
+
+Article 3 (Specification and Change of terms and conditions)
+1. The Company shall post the terms and conditions before users use electronic financial transaction services and allows
+users to confirm important details of the terms and conditions.
+
+2. In the case of user's request, the Company shall issue a copy of this Terms & Conditions to the user by means of the
+electronic document transmission.
+
+3. In the case that the Company changes the Terms & Conditions, it shall notify the user by posting the Terms &
+Conditions changed 1 month before the effective date on the initialization page of the electronic financial transaction
+service provided by the Company and on the Company's website. However, in the case that the Terms & Conditions are
+changed urgently due to the amendment of the laws, the changed Terms & Conditions shall be posted on the Company's
+website for at least 1 month and shall be notified for the user.
+
+4. If the user does not agree to the changed terms and conditions, the service cannot be used, and the user may
+terminate the contract.
+
+Article 4 (Type of Electronic Payment Agency Service)
+1. Account withdrawal agency service: It refers to a service in which a user withdraws payment from his or her account
+using the real-time withdrawal transfer service of a financial institution through the company's electronic payment
+system.
+
+2. Credit card payment agency service: When the payment method provided by the user for payment is a credit card, the
+company sends and receives credit card payment information through the electronic payment system, and acts as an agent
+or mediator for settlement of payment.
+
+Article 5 (Use time)
+1. In principle, the company provides users with electronic financial transaction services 24 hours a day throughout the
+year. However, it may be determined differently depending on the circumstances of financial institutions and other
+payment method issuers.
+
+2. If the service is inevitable to be suspended due to technical reasons such as maintenance, inspection, or other
+technical requirements of the information and communication facilities, the company may suspend the service after
+posting the service via electronic means three days prior to the service suspension. However, if it is inevitable, such
+as system failure recovery, urgent program maintenance, or external factors, the service can be stopped without prior
+posting.
+
+Article 6 (Select, use, and manage the access media)
+1. In the case of providing electronic financial transaction services, the Company may select an access media to verify
+the identity, authority, and details of transaction instructions of users.
+
+2. The user may not lend the access medium to a third party, delegate the use thereof, or provide it for transfer or
+security purposes.
+
+3. Users shall not divulge, expose, or neglect their access media to a third party, and shall pay sufficient attention
+to prevent theft, forgery, or alteration of the access media.
+
+4. When the company receives a notification of loss or theft of the access medium from the user, it is responsible for
+compensating the user for damages caused by the use of the access medium by a third party from then on.
+
+Article 7 (Confirmation of transaction details)
+1. The company allows the user to check the transaction details (including the user's error correction request facts and
+processing results) through electronic methods agreed with the user in advance, and if there is a request from the user,
+it issues a document. However, if the transaction details cannot be provided due to an operation failure of the
+electronic device or other reasons, the user shall be notified of such reasons by electronic document transmission
+(including transmission by e-mail), and the period in which the transaction details cannot be provided is not included
+in the written issuance period.
+
+2. The name or number of the transaction, type and amount of the transaction, information to identify the counterparty,
+date of transaction, access records of electronic devices related to electronic financial transactions, fees received in
+exchange for electronic financial transactions, changes in terms of electronic financial transactions Preserve and
+provide information on fees received by the company in exchange for the provision of electronic payment agency services.
+
+3. If a user intends to request a written issuance as prescribed in paragraph (1), user may request the following
+address and phone number.
+- Address: 302-ho, 14 Teheran-ro 34-gil, Gangnam-gu, Seoul, Republic of Korea
+- Email address: help@payple.kr
+- Phone number: +82-2-1522-5013
+
+Article 8 (Correction of Errors, etc.)
+1. In the case that a user knows that there is an error in using the electronic financial transaction service, it is
+possible to request the Company to correct it.
+
+2. In the case that the Company receives a request for correction of an error according to the previous Clause or in the
+case that it knows that there is an error, it will be immediately investigated and processed, then the result will be
+notified to the user within 2 weeks from the date of receipt of the correction.
+
+Article 9 (Responsibility of the Company)
+1. The user is liable for damages caused by an accident caused by forgery or alteration of the access medium. However,
+if a user violates Article 6 (2) or knows or knows that a third party can conduct electronic financial transactions
+using the user's access medium without authority, the user may bear all or part of the responsibility.
+
+2. The company is responsible for compensating the user if the damage occurs due to an accident that occurs in the
+process of electronic transmission or processing of a contract signing or transaction instruction. However, this is not
+the case if a user who falls under the proviso to paragraph (1) of this Article or is a corporation (excluding small
+businesses under Article 2 (2) of the Framework Act on Small and Medium Enterprises) is damaged, and the company has
+established security procedures and strictly observed them.
+
+3. The company is responsible for compensating users for damages in the event of an accident caused by the use of
+electronic devices for electronic financial transactions or access media obtained by fraudulent means by breaking into
+the information and communication network pursuant to Article 2(1)1 of the Act. However, the company shall not be
+responsible for any or all of the users in the following cases.
+1. In the event of an accident under Article 9 (1) 3 of the Electronic Financial Transactions Act (hereinafter referred
+to as an "accident") as the user refuses to take additional security measures required by electronic financial
+transactions in order to strengthen security,
+
+2. Where an accident occurs when a user commits the following acts on media, means or information used in additional
+security measures under subparagraph 1 of the same paragraph:
+A. Leakage, leakage or neglect
+B. An act of lending or delegating the use thereof to a third party or providing it for the purpose of transfer or
+security
+
+Article 10 (Effectiveness of electronic payment transaction contracts)
+1. In the case of electronic payment transactions under the user's order, the Company shall act on behalf of its payment
+process and send the details of the transaction order on the electronic payment transaction to proceed the payment.
+
+2. In the case that payment transactions have not been proceeded according to the user's order on electronic payment
+transaction, the Company shall return the funds received to the user.
+
+Article 11 (Withdrawal of transaction order)
+1. In the case of transaction instructions regarding electronic payment transactions, the user may withdraw the
+transaction instructions by contacting the following addresses, e-mails, and contacts until the payment becomes
+effective.
+- Address: 302-ho, 14 Teheran-ro 34-gil, Gangnam-gu, Seoul, Republic of Korea
+- Email address: help@payple.kr
+- Phone number: +82-2-1522-5013
+
+2. The time when the payment of the preceding paragraph takes effect (1) In the case of electronic funds transfer, when
+the deposit record is completed in the account ledger of the financial institution with the recipient's account opened
+(2) In the case of payment by other electronic means, the information of the recipient's account is entered into the
+electronic device.
+
+3. When the payment becomes effective, the user may receive a refund of the payment amount in accordance with the method
+of withdrawing the subscription under the relevant laws and regulations such as the "Act on Consumer Protection in
+Electronic Commerce, etc." or as prescribed in these terms and conditions.
+
+Article 12 (Generation and preservation of electronic payment agency service usage records)
+1. The company creates and preserves records that allow users to track and search the contents of electronic financial
+transactions or to confirm or correct errors in the contents.
+
+2. The types and methods of preservation of records to be preserved by the company pursuant to the provisions of the
+preceding paragraph shall be governed by Article 7 (2).
+
+Article 13 (Prohibition on the provision of electronic financial transaction information)
+In providing electronic financial transaction services, the Company shall not provide, reveal, or use any information or
+data on the personal information, accounts, access media, and electronic financial transactions of the acquired users,
+other than the business purpose without obtaining consent from the users.
+
+Article 14 (Dispute handling and dispute mediation)
+1. The user can cancel the service contract through the service website or the customer center.
+
+2. If the user fails to fulfill the obligations of these terms and conditions, the company may immediately terminate the
+service use contract or restrict the service use after prior notice. If you have any objection to the company's action,
+you can file an objection through the service website or the customer center.
+
+3. If the objection set forth in the preceding paragraph is deemed justifiable, the company shall resume the use of the
+service immediately.
+
+Article 15 (Dispute handling and dispute settlement)
+1. The user may request the following persons in charge of dispute settlement to handle disputes, such as raising
+opinions, complaints, and claims for damages related to the use of electronic financial transaction services.
+- Director: Kim, Hyun-chul, CEO of Payple Co., Ltd
+- Email address: help@payple.kr
+- Phone number: +82-2-1522-5013
+
+2. If the user applies for dispute settlement with the company, the company will inform the user of the investigation or
+settlement results within 15 days.
+
+3. Users can apply for dispute settlement related to the use of the company's electronic financial transaction services
+to the Financial Supervisory Service's Financial Dispute Mediation Committee under Article 51 of the Financial
+Supervisory Service or Article 33 of the Framework Act on Consumers.
+
+Article 16 (Obligations to secure Company stability)
+In order to ensure the safety and reliability of electronic financial transactions, the company complies with the
+standards set by the Financial Services Commission for information technology such as personnel, facilities, and
+electronic devices for electronic financial transactions.
+
+Article 17 (Regulations except Terms & Conditions, and its jurisdiction)
+1. If the individual agreements between the company and the user are different from those set forth in these terms, the
+agreements shall be applied in preference to these terms and conditions.
+
+2. Matters not prescribed in these terms and conditions shall be governed by consumer protection-related laws such as
+the Electronic Financial Transactions Act, the Electronic Commerce Act, the Mail Order Act, and the Credit Finance
+Business Act.
+
+3. The jurisdiction over disputes between the company and the user shall be governed by the Civil Procedure Act. The
+Terms & Conditions shall be effective on April 10, 2023.
